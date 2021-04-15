@@ -16,6 +16,14 @@ Using Spotify's own sound parameters, I accessed the audio features data of the 
 
 Considered the groups' history, the last tab represent a scatterplot of all the different track provided by this artists singularly. The scatterplot is meant to represent a correlation between the spotify parameters and the "personal touch" of every single Wu Tang Clan member.
 
+## Run the application
+
+shiny command:
+```
+shiny::runGitHub("Shiny_app", "magourram", ref="main")
+```
+
+
 ### About
 
 *Spotify links*:
