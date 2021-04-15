@@ -1,11 +1,5 @@
 # Shiny_app: Basic EDA and Analisys on the Wu Tang Clan music group
 
-![Wu_logo](https://user-images.githubusercontent.com/82286927/114915557-fcf6aa80-9e23-11eb-84f1-2872ef1daf1f.jpg)
-
-## Access to the Shiny App via shinyapps.io
-
-Here is the link: https://magourram.shinyapps.io/Spotify/
-
 This Shiny Apps some insights about one of the most iconic rap groups of all time: the Wu Tang Clan.
 Using the `spotifyr` library by the user **charlie86** (link to his work: http://www.rcharlie.com/spotifyr). This library allows to pull different features about artists, tracks, album, and so on. By automatically batching API requests, it allows you to enter an artist’s name and retrieve their entire discography.
 
@@ -18,14 +12,6 @@ Using Spotify's own sound parameters, I accessed the audio features data of the 
 ## Analysis
 
 Considered the groups' history, the last tab represent a scatterplot of all the different track provided by this artists singularly. The scatterplot is meant to represent a correlation between the spotify parameters and the "personal touch" of every single Wu Tang Clan member.
-
-## Run the application
-
-shiny command:
-```
-shiny::runGitHub("Shiny_app", "magourram", ref="main")
-```
-
 
 ### About
 
