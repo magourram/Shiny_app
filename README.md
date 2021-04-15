@@ -1,5 +1,6 @@
 # Shiny_app: Basic EDA and Analisys on the Wu Tang Clan music group
 
+![Wu_logo](https://user-images.githubusercontent.com/82286927/114915557-fcf6aa80-9e23-11eb-84f1-2872ef1daf1f.jpg)
 
 
 This Shiny Apps some insights about one of the most iconic rap groups of all time: the Wu Tang Clan.
