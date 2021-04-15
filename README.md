@@ -1,6 +1,6 @@
 # Shiny_app: Basic EDA and Analisys on the Wu Tang Clan music group
 
-# Access via shinyapp.io
+## Access via shinyapp.io
 Here is the link: https://magourram.shinyapps.io/Spotify/
 
 This Shiny Apps some insights about one of the most iconic rap groups of all time: the Wu Tang Clan.
