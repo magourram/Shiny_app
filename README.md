@@ -1,5 +1,7 @@
 # Shiny_app: Basic EDA and Analisys on the Wu Tang Clan music group
 
+Access link: https://magourram.shinyapps.io/Spotify/
+
 This Shiny Apps some insights about one of the most iconic rap groups of all time: the Wu Tang Clan.
 Using the `spotifyr` library by the user **charlie86** (link to his work: http://www.rcharlie.com/spotifyr). This library allows to pull different features about artists, tracks, album, and so on. By automatically batching API requests, it allows you to enter an artist’s name and retrieve their entire discography.
 
